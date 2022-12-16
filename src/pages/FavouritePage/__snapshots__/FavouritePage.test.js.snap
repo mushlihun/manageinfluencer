@@ -1,0 +1,255 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FavouritePage renders favourites details correctly 1`] = `
+.c0 {
+  border: 1px solid white;
+  border-radius: 15px 50px;
+  margin: 10px 20px 30px 20px;
+}
+
+.c6 {
+  text-align: center;
+}
+
+.c7 {
+  background: var(--lightpink);
+  border-radius: 50%;
+  text-align: center;
+  border: none;
+  stroke: #e693b5;
+  cursor: pointer;
+  height: 70px;
+  width: 70px;
+  margin: 20px;
+}
+
+.c9 {
+  color: var(--main-font-color);
+  font-family: var(--font-weight-light);
+  background: var(--darkgreen);
+  border: var(--darkgreen);
+  box-shadow: 0 3px 10px var(--boxshadow-color);
+  font-size: 18px;
+  border-radius: 40px;
+  width: 120px;
+  height: 75px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.c1 {
+  width: 120px;
+  height: 190px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 0 0 0;
+  border-radius: 50%;
+}
+
+.c2 {
+  font-family: 'Poppins';
+  font-weight: var(--font-weight-semibold);
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 0 0 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.c3 {
+  font-family: 'Poppins';
+  font-weight: var(--font-weight-light);
+  font-size: 18px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.c4 {
+  text-align: left;
+  list-style-type: none;
+  font-family: 'Poppins';
+  font-weight: var(--font-weight-light);
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.c5 {
+  -webkit-letter-spacing: 1px;
+  -moz-letter-spacing: 1px;
+  -ms-letter-spacing: 1px;
+  letter-spacing: 1px;
+  margin: 10px 0;
+  position: relative;
+}
+
+.c8 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<section
+  className="profiles"
+>
+  <section
+    className="c0"
+  >
+    <img
+      className="c1"
+    />
+    <h2
+      className="c2"
+    >
+      @fitness4life
+    </h2>
+    <h3
+      className="c3"
+    >
+      Fitness
+    </h3>
+    <ul
+      className="c4"
+    >
+      <li
+        className="c5"
+      >
+        Follower: 
+        10k
+      </li>
+      <li
+        className="c5"
+      >
+        Gender: 
+        female
+      </li>
+      <li
+        className="c5"
+      >
+        Age: 
+        25 years
+      </li>
+      <li
+        className="c5"
+      >
+        Location: 
+        Hamburg
+      </li>
+      <li
+        className="c5"
+      >
+        Languages: 
+        German, , English
+      </li>
+    </ul>
+    <section
+      className="c6"
+    >
+      <button
+        className="c7"
+        id="like-button"
+        onClick={[Function]}
+      >
+        <svg
+          className=""
+          fill="var(--darkpink)"
+          id="like-button"
+        >
+          heart.svg
+        </svg>
+      </button>
+      <a
+        className="c8"
+        href="mailto:influencer@gmail.com"
+      >
+        <button
+          className="c9"
+          id="contact-button"
+        >
+          Contact
+        </button>
+      </a>
+    </section>
+  </section>
+  <section
+    className="c0"
+  >
+    <img
+      className="c1"
+    />
+    <h2
+      className="c2"
+    >
+      @VeganPlace
+    </h2>
+    <h3
+      className="c3"
+    >
+      Food, Health
+    </h3>
+    <ul
+      className="c4"
+    >
+      <li
+        className="c5"
+      >
+        Follower: 
+        1.000
+      </li>
+      <li
+        className="c5"
+      >
+        Gender: 
+        female
+      </li>
+      <li
+        className="c5"
+      >
+        Age: 
+        28 years
+      </li>
+      <li
+        className="c5"
+      >
+        Location: 
+        Munich
+      </li>
+      <li
+        className="c5"
+      >
+        Languages: 
+        German, , English
+      </li>
+    </ul>
+    <section
+      className="c6"
+    >
+      <button
+        className="c7"
+        id="like-button"
+        onClick={[Function]}
+      >
+        <svg
+          className=""
+          fill="var(--darkpink)"
+          id="like-button"
+        >
+          heart.svg
+        </svg>
+      </button>
+      <a
+        className="c8"
+        href="mailto:influencer@gmail.com"
+      >
+        <button
+          className="c9"
+          id="contact-button"
+        >
+          Contact
+        </button>
+      </a>
+    </section>
+  </section>
+</section>
+`;
